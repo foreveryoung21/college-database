@@ -5,3 +5,6 @@ Its a database to store all the records of college entities.
 
 **Server:** MySQL
 
+## Lessons Learned
+
+How to store different types of entities into the MySQL databse.
